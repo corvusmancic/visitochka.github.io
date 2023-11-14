@@ -1,0 +1,46 @@
+* { margin: 10px;
+padding: 0;
+text-decoration: none;
+}
+body>#right-panel>.images {
+  width: 150px;
+}
+
+
+
+body {background-color: aquamarine;}
+
+.container {text-align: center;
+  font-style: oblique;
+  
+}
+
+.imgg>img {width: 400px;
+
+}
+body>#right-panel{
+  display: flex;
+}
+
+.seti {
+  display: inline;
+
+  margin-left: 120px;
+  margin-top: 60px;
+}
+h3>a {
+  background-color: rgba(165, 42, 42, 0.324);
+  border-style:outset;
+  
+}
+#right-panel {
+  text-align: center;
+  float:right;
+  display: flex;
+  flex-direction: column;
+  border-style: dotted;
+  background-color: blueviolet;
+}
+.priora>img {
+  width: 240px;
+}
